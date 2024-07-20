@@ -1,3 +1,4 @@
+# amesmicah.com
 
 I meticulously planned and developed my portfolio website, showcasing my cloud engineering capabilities. Leveraging a Bootstrap template, I customized the design to reflect my personal style. I hosted the website using AWS S3's static website hosting, ensuring high availability and scalability. For a professional touch, I configured a custom URL using AWS Route 53's DNS service.
 
